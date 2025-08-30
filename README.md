@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaeem Hassan</h1>
-<h3 align="center">🚀 A Passionate Data Scientist from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 A Passionate AI/ML Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaeem-hassan&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
