@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaeem-hassan&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-  <a href="https://twitter.com/zaeem_csv" target="_blank">
+  <a href="https://x.com/Zam_In_AI" target="_blank">
     <img src="https://img.shields.io/twitter/follow/zaeem_csv?logo=twitter&style=for-the-badge" alt="twitter" />
   </a>
 </p>
