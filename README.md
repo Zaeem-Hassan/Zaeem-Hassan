@@ -76,3 +76,21 @@ I'm a Senior AI/ML Engineer passionate about building scalable, production-grade
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+at+Scale;From+Research+to+Production;Passionate+About+AI+Ethics+%26+Innovation"/>
 </p>
+
+## 🚀 Featured Projects
+
+### [Production LLM Agent System](link) ⭐ 500+
+Multi-agent framework processing 10K+ daily requests | RAG + Function Calling | 40% cost reduction
+**Tech**: LangChain, GPT-4, PostgreSQL, Redis, FastAPI, Docker
+
+### [Real-time Object Detection Pipeline](link) ⭐ 300+
+End-to-end CV system achieving 95% mAP on custom dataset | Deployed on AWS with 50ms latency
+**Tech**: PyTorch, YOLOv8, TensorRT, AWS Lambda, S3
+
+### [Distributed Training Framework](link) ⭐ 200+
+Scalable training infrastructure reducing training time by 60% using DDP and mixed precision
+**Tech**: PyTorch DDP, Kubernetes, MLflow, W&B
+
+### [Financial Forecasting Model](link)
+Time-series transformer achieving 85% accuracy on stock movement prediction | Backtested strategy
+**Tech**: Transformers, FinBERT, Apache Airflow, PostgreSQL
