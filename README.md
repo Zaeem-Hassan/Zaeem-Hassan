@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaeem Hassan</h1>
-<h3 align="center">Senior AI/ML Engineer | Specializing in Production ML Systems & Agentic AI</h3>
+<h3 align="center">An AI/ML Engineer | Specializing in Production ML Systems & Agentic AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaeem-hassan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
